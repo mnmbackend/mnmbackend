@@ -1,4 +1,3 @@
-
 <body id="top">
   
 # 👋 Hello, this Muhammadamin M
@@ -7,7 +6,7 @@
 
 ![Footer](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
-![GitHub](https://img.shields.io/github/followers/idywahhid?label=Follow&style=social)
+![GitHub](https://img.shields.io/github/followers/mnmbackend?label=Follow&style=social)
 
 # **About**
 
@@ -15,8 +14,8 @@ Backend developer.
 
 **To contact me**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:idywahhid@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/m_muhammadkomilov/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mnmbackend/)
 
 ---
 
@@ -25,20 +24,20 @@ Backend developer.
 ### idywahhid — shaxsiy blog
 
 > Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
-- 🔗 [Repository](https://github.com/idywahhid/veb_blog)
-
+- 🔗 [Repository](https://github.com/mnmbackend/veb_blog)
 
 ---
+
 ### git-blog
 
 I write about non-technical stuff in the technical world.
  - **git-blog all articles**
- [index.md](https://github.com/idywahhid/git-blog/blob/main/index.md)
+ [index.md](https://github.com/mnmbackend/git-blog/blob/main/index.md)
  - **git-blog info**
- [README.md](https://github.com/idywahhid/git-blog/blob/main/README.md)
+ [README.md](https://github.com/mnmbackend/git-blog/blob/main/README.md)
  - **git-blog community & feedback**
- [Discussions / Savol-javob](https://github.com/idywahhid/git-blog/discussions/1)
- [CONTRIBUTING.md](https://github.com/idywahhid/git-blog/blob/main/CONTRIBUTING.md)
+ [Discussions / Savol-javob](https://github.com/mnmbackend/git-blog/discussions/1)
+ [CONTRIBUTING.md](https://github.com/mnmbackend/git-blog/blob/main/CONTRIBUTING.md)
 
 ---
 
@@ -58,12 +57,8 @@ I write about non-technical stuff in the technical world.
 
 ---
 
-<div style="text-align: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
-</div>
-
-<div style="text-align: center; margin-top: 30px;">
-  <img src="https://media.giphy.com/media/13HgknGQSzVI20/giphy.gif" alt="Retro Gaming" width="100%">
+<div style="text-align: center; margin-top: 20px;">
+  <img src="./1.gif" alt="Pixel Gamer Setup" width="100%">
 </div>
 
 </body>
