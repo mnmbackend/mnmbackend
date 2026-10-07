@@ -26,8 +26,6 @@ A collection of non-technical perspectives on the technical world.
 - **Project Info** — [README.md](https://github.com/mnmbackend/git-blog/blob/main/README.md)
 - **Community & Feedback** — [Discussions](https://github.com/mnmbackend/git-blog/discussions/1) | [Contributing](https://github.com/mnmbackend/git-blog/blob/main/CONTRIBUTING.md)
 
----
-
 ## Tech Stack
 
 <div align="center">
