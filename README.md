@@ -43,8 +43,6 @@ A collection of non-technical perspectives on the technical world.
 
 </div>
 
----
-
 <div align="center" style="margin-top: 30px;">
   <img src="./1.gif" alt="Setup" width="80%" style="border-radius: 8px;">
 </div>
