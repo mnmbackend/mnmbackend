@@ -8,7 +8,6 @@ Passionate backend developer focused on building robust, scalable solutions with
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mnmbackend)
 
----
 
 ## My Projects
 
