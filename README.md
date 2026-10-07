@@ -1,64 +1,65 @@
-<body id="top">
-  
-# 👋 Hello, this Muhammadamin M
+# 👋 Hello, I'm Muhammadamin M
 
 **Backend Developer | Python Enthusiast | Linux & Git Advocate**
 
-![Footer](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=github)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-blue?style=flat-square)
-![GitHub](https://img.shields.io/github/followers/mnmbackend?label=Follow&style=social)
-
-# **About**
-
-Backend developer.
-
-**To contact me**
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mnmbackend/)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
+![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
+![Follow](https://img.shields.io/github/followers/mnmbackend?label=Followers&style=for-the-badge&logo=github)
 
 ---
 
-## My simple solutions
+## 📋 About Me
 
-### mnmbackend — shaxsiy blog
+Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
-> Flask asosida qurilgan, terminal/kod estetikasidagi shaxsiy blog va kundalik platformasi. Qorong'i tungi tema, $ prompt uslubi va to'liq funksional admin panel bilan.
-- 🔗 [Repository](https://github.com/mnmbackend/veb_blog)
+### 📞 Get in Touch
 
----
-
-### git-blog
-
-I write about non-technical stuff in the technical world.
- - **git-blog all articles**
- [index.md](https://github.com/mnmbackend/git-blog/blob/main/index.md)
- - **git-blog info**
- [README.md](https://github.com/mnmbackend/git-blog/blob/main/README.md)
- - **git-blog community & feedback**
- [Discussions / Savol-javob](https://github.com/mnmbackend/git-blog/discussions/1)
- [CONTRIBUTING.md](https://github.com/mnmbackend/git-blog/blob/main/CONTRIBUTING.md)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mnmbackend)
 
 ---
 
-### Tech Stack
+## 🚀 My Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+### 📝 mnmbackend — Personal Blog
+
+Flask-based personal blog and daily platform with a terminal/code aesthetic. Features dark theme, command-line prompt styling, and a fully functional admin panel.
+
+🔗 [Repository](https://github.com/mnmbackend/veb_blog)
+
+### 📚 git-blog
+
+A collection of non-technical perspectives on the technical world.
+
+- 📖 **All Articles** — [index.md](https://github.com/mnmbackend/git-blog/blob/main/index.md)
+- ℹ️ **Project Info** — [README.md](https://github.com/mnmbackend/git-blog/blob/main/README.md)
+- 💬 **Community & Feedback** — [Discussions](https://github.com/mnmbackend/git-blog/discussions/1) | [Contributing](https://github.com/mnmbackend/git-blog/blob/main/CONTRIBUTING.md)
 
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="./1.gif" alt="Pixel Gamer Setup" width="100%">
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
-</body>
+---
+
+<div align="center" style="margin-top: 30px;">
+  <img src="./1.gif" alt="Setup" width="80%" style="border-radius: 8px;">
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by <strong>mnmbackend</strong></p>
+</div>
