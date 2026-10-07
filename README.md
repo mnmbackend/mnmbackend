@@ -1,14 +1,5 @@
-# Hello, I'm Muhammadamin M
-
-**Backend Developer | Python Enthusiast | Linux & Git Advocate**
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
-![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)
-![Follow](https://img.shields.io/github/followers/mnmbackend?label=Followers&style=for-the-badge&logo=github)
-
----
-
 ## About Me
+**Backend Developer | Python Enthusiast | Linux & Git Advocate**
 
 Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
