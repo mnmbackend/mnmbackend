@@ -3,28 +3,6 @@
 
 Passionate backend developer focused on building robust, scalable solutions with Python. I'm an advocate for clean code, efficient databases, and best practices in software development.
 
-### Get in Touch
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mnmbackend@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mnmbackend)
-
-
-## My Projects
-
-### mnmbackend — Personal Blog
-
-Flask-based personal blog and daily platform with a terminal/code aesthetic. Features dark theme, command-line prompt styling, and a fully functional admin panel.
-
-🔗 [Repository](https://github.com/mnmbackend/veb_blog)
-
-### git-blog
-
-A collection of non-technical perspectives on the technical world.
-
-- **All Articles** — [index.md](https://github.com/mnmbackend/git-blog/blob/main/index.md)
-- **Project Info** — [README.md](https://github.com/mnmbackend/git-blog/blob/main/README.md)
-- **Community & Feedback** — [Discussions](https://github.com/mnmbackend/git-blog/discussions/1) | [Contributing](https://github.com/mnmbackend/git-blog/blob/main/CONTRIBUTING.md)
-
 ## Tech Stack
 
 <div align="center">
